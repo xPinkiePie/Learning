@@ -1,0 +1,15 @@
+C:\Users\icc\source\repos\WPFpink\WPFpink\bin\Debug\WPFpink.exe.config
+C:\Users\icc\source\repos\WPFpink\WPFpink\bin\Debug\WPFpink.exe
+C:\Users\icc\source\repos\WPFpink\WPFpink\bin\Debug\WPFpink.pdb
+C:\Users\icc\source\repos\WPFpink\WPFpink\obj\Debug\WPFpink.csprojAssemblyReference.cache
+C:\Users\icc\source\repos\WPFpink\WPFpink\obj\Debug\MainWindow.g.cs
+C:\Users\icc\source\repos\WPFpink\WPFpink\obj\Debug\App.g.cs
+C:\Users\icc\source\repos\WPFpink\WPFpink\obj\Debug\WPFpink_MarkupCompile.cache
+C:\Users\icc\source\repos\WPFpink\WPFpink\obj\Debug\WPFpink_MarkupCompile.lref
+C:\Users\icc\source\repos\WPFpink\WPFpink\obj\Debug\MainWindow.baml
+C:\Users\icc\source\repos\WPFpink\WPFpink\obj\Debug\WPFpink.g.resources
+C:\Users\icc\source\repos\WPFpink\WPFpink\obj\Debug\WPFpink.Properties.Resources.resources
+C:\Users\icc\source\repos\WPFpink\WPFpink\obj\Debug\WPFpink.csproj.GenerateResource.cache
+C:\Users\icc\source\repos\WPFpink\WPFpink\obj\Debug\WPFpink.csproj.CoreCompileInputs.cache
+C:\Users\icc\source\repos\WPFpink\WPFpink\obj\Debug\WPFpink.exe
+C:\Users\icc\source\repos\WPFpink\WPFpink\obj\Debug\WPFpink.pdb
